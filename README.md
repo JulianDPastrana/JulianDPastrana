@@ -9,7 +9,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MSxWmQ8AAAAJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:j.pastrana@utp.edu.co)
 
-📍 Pereira, Colombia &nbsp;|&nbsp; 📞 +57 300 679 8624
+📍 Pereira, Colombia
 
 </div>
 
